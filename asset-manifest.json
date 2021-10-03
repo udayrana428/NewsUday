@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/NewsUday/static/css/main.a4a20492.chunk.css",
+    "main.js": "/NewsUday/static/js/main.4ed1f8b9.chunk.js",
+    "main.js.map": "/NewsUday/static/js/main.4ed1f8b9.chunk.js.map",
+    "runtime-main.js": "/NewsUday/static/js/runtime-main.5ff078c2.js",
+    "runtime-main.js.map": "/NewsUday/static/js/runtime-main.5ff078c2.js.map",
+    "static/js/2.e9065c35.chunk.js": "/NewsUday/static/js/2.e9065c35.chunk.js",
+    "static/js/2.e9065c35.chunk.js.map": "/NewsUday/static/js/2.e9065c35.chunk.js.map",
+    "static/js/3.7ad66bc4.chunk.js": "/NewsUday/static/js/3.7ad66bc4.chunk.js",
+    "static/js/3.7ad66bc4.chunk.js.map": "/NewsUday/static/js/3.7ad66bc4.chunk.js.map",
+    "index.html": "/NewsUday/index.html",
+    "static/css/main.a4a20492.chunk.css.map": "/NewsUday/static/css/main.a4a20492.chunk.css.map",
+    "static/js/2.e9065c35.chunk.js.LICENSE.txt": "/NewsUday/static/js/2.e9065c35.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5ff078c2.js",
+    "static/js/2.e9065c35.chunk.js",
+    "static/css/main.a4a20492.chunk.css",
+    "static/js/main.4ed1f8b9.chunk.js"
+  ]
+}
