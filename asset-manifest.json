@@ -1,22 +1,23 @@
 {
   "files": {
     "main.css": "/NewsUday/static/css/main.a4a20492.chunk.css",
-    "main.js": "/NewsUday/static/js/main.7af0dbc8.chunk.js",
-    "main.js.map": "/NewsUday/static/js/main.7af0dbc8.chunk.js.map",
-    "runtime-main.js": "/NewsUday/static/js/runtime-main.5ff078c2.js",
-    "runtime-main.js.map": "/NewsUday/static/js/runtime-main.5ff078c2.js.map",
-    "static/js/2.e9065c35.chunk.js": "/NewsUday/static/js/2.e9065c35.chunk.js",
-    "static/js/2.e9065c35.chunk.js.map": "/NewsUday/static/js/2.e9065c35.chunk.js.map",
-    "static/js/3.7ad66bc4.chunk.js": "/NewsUday/static/js/3.7ad66bc4.chunk.js",
-    "static/js/3.7ad66bc4.chunk.js.map": "/NewsUday/static/js/3.7ad66bc4.chunk.js.map",
+    "main.js": "/NewsUday/static/js/main.ac654ff5.chunk.js",
+    "main.js.map": "/NewsUday/static/js/main.ac654ff5.chunk.js.map",
+    "runtime-main.js": "/NewsUday/static/js/runtime-main.57090310.js",
+    "runtime-main.js.map": "/NewsUday/static/js/runtime-main.57090310.js.map",
+    "static/js/2.8a50a4e7.chunk.js": "/NewsUday/static/js/2.8a50a4e7.chunk.js",
+    "static/js/2.8a50a4e7.chunk.js.map": "/NewsUday/static/js/2.8a50a4e7.chunk.js.map",
+    "static/js/3.150bddd4.chunk.js": "/NewsUday/static/js/3.150bddd4.chunk.js",
+    "static/js/3.150bddd4.chunk.js.map": "/NewsUday/static/js/3.150bddd4.chunk.js.map",
     "index.html": "/NewsUday/index.html",
     "static/css/main.a4a20492.chunk.css.map": "/NewsUday/static/css/main.a4a20492.chunk.css.map",
-    "static/js/2.e9065c35.chunk.js.LICENSE.txt": "/NewsUday/static/js/2.e9065c35.chunk.js.LICENSE.txt"
+    "static/js/2.8a50a4e7.chunk.js.LICENSE.txt": "/NewsUday/static/js/2.8a50a4e7.chunk.js.LICENSE.txt",
+    "static/media/loading.6ffd86d6.gif": "/NewsUday/static/media/loading.6ffd86d6.gif"
   },
   "entrypoints": [
-    "static/js/runtime-main.5ff078c2.js",
-    "static/js/2.e9065c35.chunk.js",
+    "static/js/runtime-main.57090310.js",
+    "static/js/2.8a50a4e7.chunk.js",
     "static/css/main.a4a20492.chunk.css",
-    "static/js/main.7af0dbc8.chunk.js"
+    "static/js/main.ac654ff5.chunk.js"
   ]
 }
